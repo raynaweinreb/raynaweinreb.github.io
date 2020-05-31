@@ -1,0 +1,57 @@
+ h1 {
+text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+p {text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+
+}
+p1 {text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #337;
+
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+.Confirm{text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+.Contact-Form {text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+img {  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} 
+
+
